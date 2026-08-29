@@ -180,7 +180,7 @@ func garminChannelDescription(channelID string) string {
 	case garminPollsID:
 		return "staff polls users about app designs and possible features"
 	case garminGeneralID:
-		return "general community chat; Garmin replies should be brief and continued bot chat belongs in #bots"
+		return "general community chat; Garmin replies should be brief and continued bot chat belongs in #🤖・commands"
 	case garminBotsID:
 		return "the preferred channel for normal conversations and commands with bots"
 	case garminChatThreadID:
